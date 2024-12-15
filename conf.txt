@@ -1,4 +1,7 @@
-this is a configuration file
+This is a configuration file
 
 
 changing from remote repo
+
+
+today is Sunday
